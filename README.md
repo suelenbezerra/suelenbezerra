@@ -1,4 +1,12 @@
-## Hi there 👋
+# Oi, me chamo Suelen!
+Sou bacharel em _Ciências Econômicas_ pela UFRPE e em 2025 estou em transição para a área de **Tecnologia da Informação**. Iniciei uma graduação em *Análise e Desenvolvimento de Sistemas* no SENAC-PE.
+A primeira linguagem que estou tendo contato é com _Python_. Estou fazendo uma formação avançada na Softex nessa linguagem com ênfase no Back end.
+Tenho como objetivo conquistar uma oportunidade como desenvolvedora e continuar evoluindo.
+Estou aberta a colaborações e novos aprendizados!
+
+
+<img src="https://png.pngtree.com/png-vector/20241030/ourmid/pngtree-girl-wearing-pink-shirt-blinking-eye-png-image_14175367.png" alt="piscadela" width="100" height="200">
+Podemos conversar em Português e Inglês. E arranhar no Espanhol.
 
 <!--
 **suelenbezerra/suelenbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
