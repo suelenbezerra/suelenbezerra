@@ -5,7 +5,7 @@ Tenho como objetivo conquistar uma oportunidade como desenvolvedora e continuar 
 Estou aberta a colaborações e novos aprendizados!
 
 
-<img src="https://png.pngtree.com/png-vector/20241030/ourmid/pngtree-girl-wearing-pink-shirt-blinking-eye-png-image_14175367.png" alt="piscadela" width="100" height="200">
+
 Podemos conversar em Português e Inglês. E arranhar no Espanhol.
 
 <!--
